@@ -1,3 +1,3 @@
-# move app 2024
+# movie app 2024
 
 React JS Fundamentals Course
