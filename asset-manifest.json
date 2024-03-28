@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movid_app_2024/static/css/main.23942884.css",
+    "main.js": "/movid_app_2024/static/js/main.799c94ef.js",
+    "index.html": "/movid_app_2024/index.html",
+    "main.23942884.css.map": "/movid_app_2024/static/css/main.23942884.css.map",
+    "main.799c94ef.js.map": "/movid_app_2024/static/js/main.799c94ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23942884.css",
+    "static/js/main.799c94ef.js"
+  ]
+}
